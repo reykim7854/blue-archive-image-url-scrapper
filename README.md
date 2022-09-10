@@ -18,18 +18,19 @@ This python script scraps Blue Archive character image URLs from [Blue Archive W
     ```
     python3 scrapper.py
     ```
-  - file will be outputed as `characters.json`
-    
-    example:
-    ```json
-    {
-      "Airi": {
-          "avatar": "https://static.miraheze.org/bluearchivewiki/9/96/Airi.png",
-          "full_image": "https://static.miraheze.org/bluearchivewiki/4/4b/Airi_full.png"
-      },
-      ...
-      "Yuzu": {
-        "avatar": "https://static.miraheze.org/bluearchivewiki/7/71/Yuzu.png",
-        "full_image": "https://static.miraheze.org/bluearchivewiki/0/0d/Yuzu_full.png"
-      }
+- file will be outputed as `characters.json`
+  
+  example:
+  ```json
+  {
+    "Airi": {
+        "avatar": "https://static.miraheze.org/bluearchivewiki/9/96/Airi.png",
+        "full_image": "https://static.miraheze.org/bluearchivewiki/4/4b/Airi_full.png"
+    },
+    ...
+    "Yuzu": {
+      "avatar": "https://static.miraheze.org/bluearchivewiki/7/71/Yuzu.png",
+      "full_image": "https://static.miraheze.org/bluearchivewiki/0/0d/Yuzu_full.png"
     }
+  }
+  ```
