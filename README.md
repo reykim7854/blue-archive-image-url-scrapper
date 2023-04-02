@@ -18,7 +18,7 @@ This python script scraps Blue Archive character image URLs from [Blue Archive W
     ```
     python3 scrapper.py
     ```
-- file will be outputed as `characters.json`
+- file will be outputed as `student-images.json`
   
   example:
   ```json

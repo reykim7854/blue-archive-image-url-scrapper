@@ -1,0 +1,542 @@
+{
+  "Airi": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/9/96/Airi.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/4/4b/Airi_full.png"
+  },
+  "Akane": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/a/aa/Akane.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/c/cf/Akane_full.png"
+  },
+  "Akane (Bunny)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/9/99/Akane_%28Bunny_Girl%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/d/d3/Akane_%28Bunny_Girl%29_full.png"
+  },
+  "Akari": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/7/7d/Akari.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/b/b0/Akari_full.png"
+  },
+  "Ako": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/7/72/Ako.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/6/6a/Ako_full.png"
+  },
+  "Arisu": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/0/0f/Arisu.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/2/26/Arisu_full.png"
+  },
+  "Aru": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/d/db/Aru.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/b/b0/Aru_full.png"
+  },
+  "Aru (New Year)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/6/60/Aru_%28New_Year%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/5/59/Aru_%28New_Year%29_full.png"
+  },
+  "Asuna": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/9/9f/Asuna.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/c/c7/Asuna_full.png"
+  },
+  "Asuna (Bunny)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/a/a4/Asuna_%28Bunny_Girl%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/3/35/Asuna_%28Bunny_Girl%29_full.png"
+  },
+  "Atsuko": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/c/c7/Atsuko.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/f/fc/Atsuko_full.png"
+  },
+  "Ayane": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/a/a7/Ayane.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/3/3f/Ayane_full.png"
+  },
+  "Ayane (Swimsuit)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/f/f6/Ayane_%28Swimsuit%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/7/7f/Ayane_%28Swimsuit%29_full.png"
+  },
+  "Azusa": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/8/86/Azusa.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/0/06/Azusa_full.png"
+  },
+  "Azusa (Swimsuit)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/a/a4/Azusa_%28Swimsuit%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/2/2e/Azusa_%28Swimsuit%29_full.png"
+  },
+  "Cherino": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/7/7c/Cherino.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/1/10/Cherino_full.png"
+  },
+  "Cherino (Hot Spring)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/9/95/Cherino_%28Hot_Spring%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/4/46/Cherino_%28Hot_Spring%29_full.png"
+  },
+  "Chihiro": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/a/a7/Chihiro.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/e/e4/Chihiro_full.png"
+  },
+  "Chinatsu": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/b/b6/Chinatsu.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/6/60/Chinatsu_full.png"
+  },
+  "Chinatsu (Hot Spring)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/b/b1/Chinatsu_%28Hot_Spring%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/1/19/Chinatsu_%28Hot_Spring%29_full.png"
+  },
+  "Chise": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/d/d0/Chise.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/7/77/Chise_full.png"
+  },
+  "Chise (Swimsuit)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/1/1e/Chise_%28Swimsuit%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/e/e7/Chise_%28Swimsuit%29_full.png"
+  },
+  "Eimi": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/e/ed/Eimi.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/a/ac/Eimi_full.png"
+  },
+  "Fubuki": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/c/cd/Fubuki.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/4/49/Fubuki_full.png"
+  },
+  "Fuuka": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/1/1f/Fuuka.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/2/23/Fuuka_full.png"
+  },
+  "Fuuka (New Year)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/1/13/Fuuka_%28New_Year%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/c/c1/Fuuka_%28New_Year%29_full.png"
+  },
+  "Hanae": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/7/72/Hanae.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/f/f0/Hanae_full.png"
+  },
+  "Hanae (Christmas)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/1/1a/Hanae_%28Christmas%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/4/45/Hanae_%28Christmas%29_full.png"
+  },
+  "Hanako": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/9/9c/Hanako.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/3/3d/Hanako_full.png"
+  },
+  "Hare": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/4/47/Hare.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/f/f1/Hare_full.png"
+  },
+  "Haruka": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/b/b1/Haruka.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/9/92/Haruka_full.png"
+  },
+  "Haruka (New Year)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/d/d9/Haruka_%28New_Year%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/c/cf/Haruka_%28New_Year%29_full.png"
+  },
+  "Haruna": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/a/a6/Haruna.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/2/21/Haruna_full.png"
+  },
+  "Haruna (New Year)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/b/b3/Haruna_%28New_Year%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/9/9e/Haruna_%28New_Year%29_full.png"
+  },
+  "Hasumi": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/8/84/Hasumi.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/1/1f/Hasumi_full.png"
+  },
+  "Hasumi (Sportswear)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/8/80/Hasumi_%28Sportswear%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/2/29/Hasumi_%28Sportswear%29_full.png"
+  },
+  "Hatsune Miku": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/9/93/Hatsune_Miku.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/4/49/Hatsune_Miku_full.png"
+  },
+  "Hibiki": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/b/bc/Hibiki.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/e/e2/Hibiki_full.png"
+  },
+  "Hibiki (Cheer Squad)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/b/bf/Hibiki_%28Cheerleader%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/1/11/Hibiki_%28Cheerleader%29_full.png"
+  },
+  "Hifumi": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/3/3b/Hifumi.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/b/b4/Hifumi_full.png"
+  },
+  "Hifumi (Swimsuit)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/3/32/Hifumi_%28Swimsuit%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/9/99/Hifumi_%28Swimsuit%29_full.png"
+  },
+  "Himari": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/5/5a/Himari.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/0/08/Himari_full.png"
+  },
+  "Hina": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/8/83/Hina.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/2/27/Hina_full.png"
+  },
+  "Hina (Swimsuit)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/4/44/Hina_%28Swimsuit%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/a/a7/Hina_%28Swimsuit%29_full.png"
+  },
+  "Hinata": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/9/97/Hinata.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/d/d7/Hinata_full.png"
+  },
+  "Hiyori": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/7/76/Hiyori.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/8/8f/Hiyori_full.png"
+  },
+  "Hoshino": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/a/a9/Hoshino.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/3/35/Hoshino_full.png"
+  },
+  "Hoshino (Swimsuit)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/c/c2/Hoshino_%28Swimsuit%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/c/ce/Hoshino_%28Swimsuit%29_full.png"
+  },
+  "Iori": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/2/26/Iori.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/d/d1/Iori_full.png"
+  },
+  "Iori (Swimsuit)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/5/53/Iori_%28Swimsuit%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/a/a6/Iori_%28Swimsuit%29_full.png"
+  },
+  "Iroha": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/b/bf/Iroha.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/7/7e/Iroha_full.png"
+  },
+  "Izumi": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/1/10/Izumi.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/8/8f/Izumi_full.png"
+  },
+  "Izumi (Swimsuit)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/b/b0/Izumi_%28Swimsuit%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/1/1e/Izumi_%28Swimsuit%29_full.png"
+  },
+  "Izuna": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/5/54/Izuna.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/e/e9/Izuna_full.png"
+  },
+  "Izuna (Swimsuit)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/3/37/Izuna_%28Swimsuit%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/9/92/Izuna_%28Swimsuit%29_full.png"
+  },
+  "Junko": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/3/3c/Junko.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/c/c6/Junko_full.png"
+  },
+  "Junko (New Year)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/d/d0/Junko_%28New_Year%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/9/93/Junko_%28New_Year%29_full.png"
+  },
+  "Juri": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/3/37/Juri.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/5/5f/Juri_full.png"
+  },
+  "Kaede": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/f/f0/Kaede.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/2/24/Kaede_full.png"
+  },
+  "Kanna": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/4/47/Kanna.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/6/69/Kanna_full.png"
+  },
+  "Karin": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/5/50/Karin.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/a/a4/Karin_full.png"
+  },
+  "Karin (Bunny)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/b/bd/Karin_%28Bunny_Girl%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/c/c8/Karin_%28Bunny_Girl%29_full.png"
+  },
+  "Kayoko": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/a/a5/Kayoko.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/7/78/Kayoko_full.png"
+  },
+  "Kayoko (New Year)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/0/0d/Kayoko_%28New_Year%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/8/8c/Kayoko_%28New_Year%29_full.png"
+  },
+  "Kazusa": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/b/b3/Kazusa.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/a/ac/Kazusa_full.png"
+  },
+  "Kirino": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/8/85/Kirino.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/0/08/Kirino_full.png"
+  },
+  "Koharu": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/c/c3/Koharu.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/b/bd/Koharu_full.png"
+  },
+  "Kokona": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/8/83/Kokona.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/4/43/Kokona_full.png"
+  },
+  "Kotama": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/9/94/Kotama.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/7/7a/Kotama_full.png"
+  },
+  "Kotori": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/a/ab/Kotori.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/6/61/Kotori_full.png"
+  },
+  "Koyuki": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/a/af/Koyuki.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/e/ee/Koyuki_full.png"
+  },
+  "Maki": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/2/21/Maki.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/2/2e/Maki_full.png"
+  },
+  "Mari": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/4/4f/Mari.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/8/8f/Mari_full.png"
+  },
+  "Mari (Sportswear)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/8/88/Mari_%28Sportswear%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/7/73/Mari_%28Sportswear%29_full.png"
+  },
+  "Marina": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/9/9d/Marina.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/5/5c/Marina_full.png"
+  },
+  "Mashiro": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/0/06/Mashiro.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/a/af/Mashiro_full.png"
+  },
+  "Mashiro (Swimsuit)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/2/20/Mashiro_%28Swimsuit%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/1/1c/Mashiro_%28Swimsuit%29_full.png"
+  },
+  "Megu": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/d/d4/Megu.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/7/76/Megu_full.png"
+  },
+  "Michiru": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/e/e6/Michiru.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/f/fe/Michiru_full.png"
+  },
+  "Midori": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/e/ee/Midori.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/5/5e/Midori_full.png"
+  },
+  "Mika": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/c/c8/Mika.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/a/a6/Mika_full.png"
+  },
+  "Mimori": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/8/82/Mimori.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/7/72/Mimori_full.png"
+  },
+  "Mine": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/a/a0/Mine.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/1/1f/Mine_full.png"
+  },
+  "Misaki": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/a/ae/Misaki.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/f/f1/Misaki_full.png"
+  },
+  "Miyako": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/3/3e/Miyako.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/e/e9/Miyako_full.png"
+  },
+  "Miyu": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/a/ac/Miyu.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/b/b8/Miyu_full.png"
+  },
+  "Moe": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/c/cc/Moe.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/b/bc/Moe_full.png"
+  },
+  "Momoi": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/1/18/Momoi.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/d/dd/Momoi_full.png"
+  },
+  "Mutsuki": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/0/0b/Mutsuki.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/c/c8/Mutsuki_full.png"
+  },
+  "Mutsuki (New Year)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/c/c2/Mutsuki_%28New_Year%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/b/b2/Mutsuki_%28New_Year%29_full.png"
+  },
+  "Nagisa": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/6/6a/Nagisa.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/0/0f/Nagisa_full.png"
+  },
+  "Natsu": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/9/90/Natsu.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/e/ef/Natsu_full.png"
+  },
+  "Neru": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/2/24/Neru.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/c/c7/Neru_full.png"
+  },
+  "Neru (Bunny)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/7/78/Neru_%28Bunny_Girl%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/1/13/Neru_%28Bunny_Girl%29_full.png"
+  },
+  "Noa": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/2/23/Noa.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/1/18/Noa_full.png"
+  },
+  "Nodoka": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/e/e1/Nodoka.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/c/c3/Nodoka_full.png"
+  },
+  "Nodoka (Hot Spring)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/3/3f/Nodoka_%28Hot_Spring%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/9/9c/Nodoka_%28Hot_Spring%29_full.png"
+  },
+  "Nonomi": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/a/ad/Nonomi.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/3/3f/Nonomi_full.png"
+  },
+  "Nonomi (Swimsuit)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/9/98/Nonomi_%28Swimsuit%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/0/01/Nonomi_%28Swimsuit%29_full.png"
+  },
+  "Pina": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/9/96/Pina.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/f/f7/Pina_full.png"
+  },
+  "Saki": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/d/d0/Saki.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/1/19/Saki_full.png"
+  },
+  "Sakurako": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/f/f0/Sakurako.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/d/d4/Sakurako_full.png"
+  },
+  "Saori": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/4/46/Saori.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/3/39/Saori_full.png"
+  },
+  "Saya": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/c/ce/Saya.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/a/a1/Saya_full.png"
+  },
+  "Saya (Casual)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/e/e2/Saya_%28Casual%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/0/06/Saya_%28Casual%29_full.png"
+  },
+  "Sena": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/f/f4/Sena.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/e/e5/Sena_full.png"
+  },
+  "Serika": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/c/c8/Serika.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/c/c0/Serika_full.png"
+  },
+  "Serika (New Year)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/6/61/Serika_%28New_Year%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/0/01/Serika_%28New_Year%29_full.png"
+  },
+  "Serina": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/4/41/Serina.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/b/b8/Serina_full.png"
+  },
+  "Serina (Christmas)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/1/19/Serina_%28Christmas%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/7/74/Serina_%28Christmas%29_full.png"
+  },
+  "Shigure": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/d/da/Shigure.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/9/9d/Shigure_full.png"
+  },
+  "Shimiko": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/f/f4/Shimiko.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/9/93/Shimiko_full.png"
+  },
+  "Shiroko": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/6/63/Shiroko.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/b/b8/Shiroko_full.png"
+  },
+  "Shiroko (Cycling)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/a/a0/Shiroko_%28Riding%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/f/fa/Shiroko_%28Riding%29_full.png"
+  },
+  "Shizuko": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/7/77/Shizuko.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/e/e3/Shizuko_full.png"
+  },
+  "Shizuko (Swimsuit)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/f/f2/Shizuko_%28Swimsuit%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/f/f6/Shizuko_%28Swimsuit%29_full.png"
+  },
+  "Shun": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/1/17/Shun.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/4/4f/Shun_full.png"
+  },
+  "Shun (Kid)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/5/53/Shun_%28Kid%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/2/25/Shun_%28Kid%29_full.png"
+  },
+  "Sumire": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/d/d6/Sumire.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/3/3a/Sumire_full.png"
+  },
+  "Suzumi": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/0/07/Suzumi.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/d/d5/Suzumi_full.png"
+  },
+  "Toki": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/e/e4/Toki.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/d/df/Toki_full.png"
+  },
+  "Tomoe": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/0/0a/Tomoe.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/3/35/Tomoe_full.png"
+  },
+  "Tsubaki": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/6/6a/Tsubaki.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/1/17/Tsubaki_full.png"
+  },
+  "Tsukuyo": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/c/ce/Tsukuyo.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/f/fe/Tsukuyo_full.png"
+  },
+  "Tsurugi": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/c/c1/Tsurugi.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/3/3b/Tsurugi_full.png"
+  },
+  "Tsurugi (Swimsuit)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/e/e6/Tsurugi_%28Swimsuit%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/a/ab/Tsurugi_%28Swimsuit%29_full.png"
+  },
+  "Ui": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/1/18/Ui.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/2/2c/Ui_full.png"
+  },
+  "Utaha": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/3/37/Utaha.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/c/cf/Utaha_full.png"
+  },
+  "Utaha (Cheer Squad)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/7/7b/Utaha_%28Cheerleader%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/f/f0/Utaha_%28Cheerleader%29_full.png"
+  },
+  "Wakamo": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/a/a7/Wakamo.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/d/d3/Wakamo_full.png"
+  },
+  "Wakamo (Swimsuit)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/e/e2/Wakamo_%28Swimsuit%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/3/37/Wakamo_%28Swimsuit%29_full.png"
+  },
+  "Yoshimi": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/c/c2/Yoshimi.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/8/8c/Yoshimi_full.png"
+  },
+  "Yuuka": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/3/3e/Yuuka.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/8/82/Yuuka_full.png"
+  },
+  "Yuuka (Sportswear)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/6/60/Yuuka_%28Sportswear%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/e/e1/Yuuka_%28Sportswear%29_full.png"
+  },
+  "Yuzu": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/7/71/Yuzu.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/0/0d/Yuzu_full.png"
+  }
+}

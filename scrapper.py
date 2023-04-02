@@ -3,9 +3,11 @@ from requests.adapters import HTTPAdapter, Retry
 import requests
 import time
 import json
+import re
 
 BASE_URL = 'https://bluearchive.wiki/wiki'
 DEFAULT_TIMEOUT = 5
+
 
 class TimeoutHTTPAdapter(HTTPAdapter):
     def __init__(self, *args, **kwargs):
@@ -37,32 +39,38 @@ def get_character_names(http):
     count = 0
     for row in result:
         print('getting character names...(' + str(count) +
-            '/' + str(len(result)) + ' names)', end='\r')
+              '/' + str(len(result)) + ' names)', end='\r')
         names = row.find_all('td')[1].find('a').string
         character_names.append(names)
         count += 1
 
     print('Getting character names...(' + str(count) +
-        '/' + str(len(result)) + ' names)')
+          '/' + str(len(result)) + ' names)')
     time.sleep(5)
     return character_names
 
 
 def get_character_image(http, name):
     try:
-        result_avatar = soupify(http, '/File:' + name.replace(' ', '_') + '.png')
+        result_avatar = soupify(
+            http, '/File:' + name.replace(' ', '_') + '.png')
         time.sleep(5)
-        result_full = soupify(http, '/File:' + name.replace(' ', '_') + '_full.png')
+        result_full = soupify(
+            http, '/File:' + name.replace(' ', '_') + '_full.png')
         time.sleep(5)
-        image_avatar = result_avatar.find('div', class_='fullImageLink').find('a')
+        image_avatar = result_avatar.find(
+            'div', class_='fullImageLink').find('a')
         image_full = result_full.find('div', class_='fullImageLink').find('a')
         return {'avatar': 'https:' + image_avatar['href'], 'full_image': 'https:' + image_full['href']}
     except requests.exceptions.Timeout:
-        result_avatar = soupify(http, '/File:' + name.replace(' ', '_') + '.png')
+        result_avatar = soupify(
+            http, '/File:' + name.replace(' ', '_') + '.png')
         time.sleep(5)
-        result_full = soupify(http, '/File:' + name.replace(' ', '_') + '_full.png')
+        result_full = soupify(
+            http, '/File:' + name.replace(' ', '_') + '_full.png')
         time.sleep(5)
-        image_avatar = result_avatar.find('div', class_='fullImageLink').find('a')
+        image_avatar = result_avatar.find(
+            'div', class_='fullImageLink').find('a')
         image_full = result_full.find('div', class_='fullImageLink').find('a')
         return {'avatar': 'https:' + image_avatar['href'], 'full_image': 'https:' + image_full['href']}
     except requests.exceptions.RequestException as e:
@@ -72,7 +80,8 @@ def get_character_image(http, name):
 
 def main():
     http = requests.Session()
-    retries = Retry(total=3, backoff_factor=1, status_forcelist=[429, 500, 502, 503, 504])
+    retries = Retry(total=3, backoff_factor=1,
+                    status_forcelist=[429, 500, 502, 503, 504])
     adapter = TimeoutHTTPAdapter(max_retries=retries)
     http.mount("https://", adapter)
     http.mount("http://", adapter)
@@ -82,14 +91,26 @@ def main():
     result = {}
 
     for name in character_names:
+        name_alt = ""
+        if re.search(r"(Bunny Girl)", name):
+            name_alt = re.sub(r"(Bunny Girl)", "Bunny", name)
+        elif re.search(r"(Cheerleader)", name):
+            name_alt = re.sub(r"(Cheerleader)", "Cheer Squad", name)
+        elif re.search(r"(Child)", name):
+            name_alt = re.sub(r"(Child)", "Small", name)
+        elif re.search(r"(Riding)", name):
+            name_alt = re.sub(r"(Riding)", "Cycling", name)
+        
+
         print('Getting character (' + name + ') image...(' + str(count) +
               '/' + str(len(character_names)) + ' character)')
 
-        result[name] = get_character_image(http, name)
+        result[name_alt if name_alt else name] = get_character_image(
+            http, name)
         count += 1
 
-    json_object = json.dumps(result, indent=4)
-    with open("characters.json", "w") as outfile:
+    json_object = json.dumps(result, indent=2)
+    with open("student-images.json", "w") as outfile:
         outfile.write(json_object)
 
 
