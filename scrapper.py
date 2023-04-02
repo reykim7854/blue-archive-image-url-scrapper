@@ -100,6 +100,8 @@ def main():
             name_alt = re.sub(r"(Child)", "Small", name)
         elif re.search(r"(Riding)", name):
             name_alt = re.sub(r"(Riding)", "Cycling", name)
+        elif re.search(r"(Arisu)", name):
+            name_alt = re.sub(r"(Arisu)", "Aris", name)
         
 
         print('Getting character (' + name + ') image...(' + str(count) +
