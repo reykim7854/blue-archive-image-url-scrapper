@@ -96,8 +96,8 @@ def main():
             name_alt = re.sub(r"(Bunny Girl)", "Bunny", name)
         elif re.search(r"(Cheerleader)", name):
             name_alt = re.sub(r"(Cheerleader)", "Cheer Squad", name)
-        elif re.search(r"(Child)", name):
-            name_alt = re.sub(r"(Child)", "Small", name)
+        elif re.search(r"(Kid)", name):
+            name_alt = re.sub(r"(Kid)", "Small", name)
         elif re.search(r"(Riding)", name):
             name_alt = re.sub(r"(Riding)", "Cycling", name)
         elif re.search(r"(Arisu)", name):
