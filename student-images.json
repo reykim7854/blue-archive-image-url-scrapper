@@ -19,9 +19,13 @@
     "avatar": "https://static.miraheze.org/bluearchivewiki/7/72/Ako.png",
     "full_image": "https://static.miraheze.org/bluearchivewiki/6/6a/Ako_full.png"
   },
-  "Arisu": {
+  "Aris": {
     "avatar": "https://static.miraheze.org/bluearchivewiki/0/0f/Arisu.png",
     "full_image": "https://static.miraheze.org/bluearchivewiki/2/26/Arisu_full.png"
+  },
+  "Aris (Maid)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/b/b4/Arisu_%28Maid%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/8/8d/Arisu_%28Maid%29_full.png"
   },
   "Aru": {
     "avatar": "https://static.miraheze.org/bluearchivewiki/d/db/Aru.png",
@@ -139,7 +143,7 @@
     "avatar": "https://static.miraheze.org/bluearchivewiki/8/84/Hasumi.png",
     "full_image": "https://static.miraheze.org/bluearchivewiki/1/1f/Hasumi_full.png"
   },
-  "Hasumi (Sportswear)": {
+  "Hasumi (Track)": {
     "avatar": "https://static.miraheze.org/bluearchivewiki/8/80/Hasumi_%28Sportswear%29.png",
     "full_image": "https://static.miraheze.org/bluearchivewiki/2/29/Hasumi_%28Sportswear%29_full.png"
   },
@@ -235,6 +239,10 @@
     "avatar": "https://static.miraheze.org/bluearchivewiki/f/f0/Kaede.png",
     "full_image": "https://static.miraheze.org/bluearchivewiki/2/24/Kaede_full.png"
   },
+  "Kaho": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/6/63/Kaho.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/1/1c/Kaho_full.png"
+  },
   "Kanna": {
     "avatar": "https://static.miraheze.org/bluearchivewiki/4/47/Kanna.png",
     "full_image": "https://static.miraheze.org/bluearchivewiki/6/69/Kanna_full.png"
@@ -291,7 +299,7 @@
     "avatar": "https://static.miraheze.org/bluearchivewiki/4/4f/Mari.png",
     "full_image": "https://static.miraheze.org/bluearchivewiki/8/8f/Mari_full.png"
   },
-  "Mari (Sportswear)": {
+  "Mari (Track)": {
     "avatar": "https://static.miraheze.org/bluearchivewiki/8/88/Mari_%28Sportswear%29.png",
     "full_image": "https://static.miraheze.org/bluearchivewiki/7/73/Mari_%28Sportswear%29_full.png"
   },
@@ -399,6 +407,10 @@
     "avatar": "https://static.miraheze.org/bluearchivewiki/9/96/Pina.png",
     "full_image": "https://static.miraheze.org/bluearchivewiki/f/f7/Pina_full.png"
   },
+  "Reisa": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/3/34/Reisa.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/5/59/Reisa_full.png"
+  },
   "Saki": {
     "avatar": "https://static.miraheze.org/bluearchivewiki/d/d0/Saki.png",
     "full_image": "https://static.miraheze.org/bluearchivewiki/1/19/Saki_full.png"
@@ -467,7 +479,7 @@
     "avatar": "https://static.miraheze.org/bluearchivewiki/1/17/Shun.png",
     "full_image": "https://static.miraheze.org/bluearchivewiki/4/4f/Shun_full.png"
   },
-  "Shun (Kid)": {
+  "Shun (Small)": {
     "avatar": "https://static.miraheze.org/bluearchivewiki/5/53/Shun_%28Kid%29.png",
     "full_image": "https://static.miraheze.org/bluearchivewiki/2/25/Shun_%28Kid%29_full.png"
   },
@@ -482,6 +494,10 @@
   "Toki": {
     "avatar": "https://static.miraheze.org/bluearchivewiki/e/e4/Toki.png",
     "full_image": "https://static.miraheze.org/bluearchivewiki/d/df/Toki_full.png"
+  },
+  "Toki (Bunny)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/8/83/Toki_%28Bunny_Girl%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/7/7d/Toki_%28Bunny_Girl%29_full.png"
   },
   "Tomoe": {
     "avatar": "https://static.miraheze.org/bluearchivewiki/0/0a/Tomoe.png",
@@ -531,12 +547,16 @@
     "avatar": "https://static.miraheze.org/bluearchivewiki/3/3e/Yuuka.png",
     "full_image": "https://static.miraheze.org/bluearchivewiki/8/82/Yuuka_full.png"
   },
-  "Yuuka (Sportswear)": {
+  "Yuuka (Track)": {
     "avatar": "https://static.miraheze.org/bluearchivewiki/6/60/Yuuka_%28Sportswear%29.png",
     "full_image": "https://static.miraheze.org/bluearchivewiki/e/e1/Yuuka_%28Sportswear%29_full.png"
   },
   "Yuzu": {
     "avatar": "https://static.miraheze.org/bluearchivewiki/7/71/Yuzu.png",
     "full_image": "https://static.miraheze.org/bluearchivewiki/0/0d/Yuzu_full.png"
+  },
+  "Yuzu (Maid)": {
+    "avatar": "https://static.miraheze.org/bluearchivewiki/1/17/Yuzu_%28Maid%29.png",
+    "full_image": "https://static.miraheze.org/bluearchivewiki/f/f8/Yuzu_%28Maid%29_full.png"
   }
 }

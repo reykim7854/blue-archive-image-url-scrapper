@@ -78,6 +78,24 @@ def get_character_image(http, name):
         raise SystemExit(e)
 
 
+def rename_character(name):
+    name_alt = ""
+    if re.search(r"(Bunny Girl)", name):
+        name_alt = re.sub(r"(Bunny Girl)", "Bunny", name)
+    elif re.search(r"(Cheerleader)", name):
+        name_alt = re.sub(r"(Cheerleader)", "Cheer Squad", name)
+    elif re.search(r"(Kid)", name):
+        name_alt = re.sub(r"(Kid)", "Small", name)
+    elif re.search(r"(Riding)", name):
+        name_alt = re.sub(r"(Riding)", "Cycling", name)
+    elif re.search(r"(Arisu)", name):
+        name_alt = re.sub(r"(Arisu)", "Aris", name)
+    elif re.search(r"(Sportswear)", name):
+        name_alt = re.sub(r"(Sportswear)", "Track", name)
+
+    return name_alt
+
+
 def main():
     http = requests.Session()
     retries = Retry(total=3, backoff_factor=1,
@@ -91,18 +109,7 @@ def main():
     result = {}
 
     for name in character_names:
-        name_alt = ""
-        if re.search(r"(Bunny Girl)", name):
-            name_alt = re.sub(r"(Bunny Girl)", "Bunny", name)
-        elif re.search(r"(Cheerleader)", name):
-            name_alt = re.sub(r"(Cheerleader)", "Cheer Squad", name)
-        elif re.search(r"(Kid)", name):
-            name_alt = re.sub(r"(Kid)", "Small", name)
-        elif re.search(r"(Riding)", name):
-            name_alt = re.sub(r"(Riding)", "Cycling", name)
-        elif re.search(r"(Arisu)", name):
-            name_alt = re.sub(r"(Arisu)", "Aris", name)
-        
+        name_alt = rename_character(name)
 
         print('Getting character (' + name + ') image...(' + str(count) +
               '/' + str(len(character_names)) + ' character)')
